@@ -73,10 +73,10 @@ namespace classMoney
             Console.WriteLine("money1(or 2?): "); money1.print();
 
             Money money2 = new(2, 5); //money with 2 rubles 5 coins  
-            Console.WriteLine("money2: "); money2.print();
+            Console.WriteLine("Money2: "); money2.print();
 
             money2--;
-            Console.WriteLine("moey2--: "); money2.print();
+            Console.WriteLine("Money2--: "); money2.print();
 
             money2++;
             Console.WriteLine("money2++: "); money2.print();
