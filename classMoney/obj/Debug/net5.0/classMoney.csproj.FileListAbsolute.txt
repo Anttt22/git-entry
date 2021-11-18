@@ -1,0 +1,16 @@
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\classMoney.exe
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\classMoney.deps.json
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\classMoney.runtimeconfig.json
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\classMoney.runtimeconfig.dev.json
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\classMoney.dll
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\ref\classMoney.dll
+C:\Users\klen\source\repos\classMoney\classMoney\bin\Debug\net5.0\classMoney.pdb
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.csproj.AssemblyReference.cache
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.AssemblyInfoInputs.cache
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.AssemblyInfo.cs
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.csproj.CoreCompileInputs.cache
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.dll
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\ref\classMoney.dll
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.pdb
+C:\Users\klen\source\repos\classMoney\classMoney\obj\Debug\net5.0\classMoney.genruntimeconfig.cache
