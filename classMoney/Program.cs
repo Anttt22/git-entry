@@ -79,7 +79,7 @@ namespace classMoney
             Console.WriteLine("Money2--: "); money2.print();
 
             money2++;
-            Console.WriteLine("money2++: "); money2.print();
+            Console.WriteLine("Money2++: "); money2.print();
 
             Money money3 = money1 + money2;
             Console.WriteLine("mone3 = money1 + money2: "); money3.print();
@@ -95,7 +95,7 @@ namespace classMoney
             Console.WriteLine($"money2 == money1?: {money2 == money1}");
             Console.WriteLine($"money2 != money1?: {money2 != money1}");
 
-
+            Console.WriteLine("all money to rename to Money");
 
 
             Console.ReadKey();
